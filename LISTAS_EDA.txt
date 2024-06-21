@@ -1,0 +1,24 @@
+Problemas a resolver usando datos:
+
+- Acertar Quiniela en la segunda vuelta de la competición a partir de los datos de la primera vuelta e histórico de enfrentamientos. Tambien tener en cuenta correctores como racha de victorias, jugadores lesionados, si juega o no competición europea, etc..
+
+- ¿Vale la pena comprar un coche eléctrico?
+
+- Un sistema que te diga que comprar, cuando comprar para que no sobre nunca nada de comida y tener un tipo de dieta concreta. Me gustaría que se tuviera en cuenta la comida de aprovechamiento
+
+- Cuanto cuesta tener un hijo(restando las ayudas) y cuanto reporta al estado de beneficios (impuestos directos e indirectos). Quiero saber el diferencial real. Hay que tener en cuenta que mi hijo/a también podrá tener hijos (media hijos actual). 
+
+- ¿En que década de los últimos 100 años se ha vivido mejor?
+
+
+
+
+Conjunto de datos que me gustaría usar:
+
+- Datos de la Liga de primera division y segunda division. Estadísticas de los partidos.
+
+-Litros suministrados de gasolina/diesel diarios en todas las gasolineras de España durante el ultimo año
+
+-Endeudamiento medio por habitante en los últimos 60 años y riqueza media por habitante en los últimos 60 años. Renta per capita de cada década también.
+
+- 
